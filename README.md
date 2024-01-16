@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! My name is Sebastian Babon and I am a student at Northampton Community College. I am majoring in Information Security and am set to graduate in May of 2024. I have experience programming in Python and writing scripts in Python, Bash, and Powershell. I also have entry-level experience with C++.
+
+### Cheers!
 
 <!--
 **babons/babons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
