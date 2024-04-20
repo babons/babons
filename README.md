@@ -1,4 +1,6 @@
-### Hello! My name is Sebastian Babon and I am a student at Northampton Community College. I am majoring in Information Security and am set to graduate in May of 2024. I have experience programming in Python and writing scripts in Python, Bash, and Powershell. I also have entry-level experience with C++.
+### Hello! My name is Sebastian Babon and I am a student at Northampton Community College. I am majoring in Information Security and am set to graduate in May of 2024. I have experience programming in Python and writing scripts in Python, Bash, and Powershell. I also have entry-level experience with C++. 
+
+Recently, I have been working with TerraForm and experimenting with AWS.
 
 ### Cheers!
 
